@@ -1,0 +1,7 @@
+.navbar {
+   background-color: Brown;
+   background: Brown;
+   border-color: Brown;
+}
+
+.navbar li { color: #000 }/* this is a custom css stylesheet */
